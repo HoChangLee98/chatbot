@@ -1,4 +1,4 @@
-## 고객 응대 챗봇 만들기
+## 자소서 기반 챗봇 만들기
 
 ### 가상환경 설정 방법  
 requirements.txt를 다운받는다.  
@@ -10,3 +10,6 @@ conda create -n chatbot python=3.11
 conda activate chatbot  
 pip install -r requirements.txt
 ```
+
+## Contents
+자소서 혹은 포토폴리오를 기반으로 질문에 대해 답변을 하는 챗봇을 생성합니다. 
