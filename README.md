@@ -14,10 +14,10 @@ pip install -r requirements.txt
 ## Contents
 자소서 혹은 포토폴리오를 기반으로 질문에 대해 답변을 하는 챗봇을 생성합니다. 
 
-### pdf 문서 준비
+### 1. pdf 문서 준비
 files 폴더에 pdf 형식의 파일들을 준비합니다.  
 
-### local에서 실행
+### 2. local에서 실행
 chatbot.py 내에 open_ai_key를 입력합니다.  
 가상환경을 활성화시켜준 뒤 터미널 상에서 아래의 코드를 실행합니다.  
 ```cmd
